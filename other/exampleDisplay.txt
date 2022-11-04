@@ -1,0 +1,328 @@
+Les commandes du fichier exampleCommands.txt seront exécutées
+-----
+Liste de tous les joueurs actifs:
+[Maria,1497]
+-----
+-----
+Attention: la commande "disable-profile,Erika" n'a pas été exécutée.
+Raison: Erika n'est pas un profil existant
+-----
+Suggestions d'adversaires pour [Grinch,1500], elo +- 150
+[Maria,1497]
+-----
+-----
+Attention: la commande "result,Grinch,Bob,-1" n'a pas été exécutée.
+Raison: Grinch n'est pas un profil actif
+-----
+Attention: la commande "result,Hector,Hector,-1" n'a pas été exécutée.
+Raison: Hector n'est pas un profil actif
+-----
+Attention: la commande "new-profile,Fern22" n'a pas été exécutée.
+Raison: Fern22 est un nom et ne doit donc contenir que des lettres
+-----
+-----
+Attention: la commande "result,Erika,Hector,1" n'a pas été exécutée.
+Raison: Hector n'est pas un profil actif
+-----
+Attention: la commande "result,Carl,Diana,0" n'a pas été exécutée.
+Raison: Carl n'est pas un profil actif
+-----
+Attention: la commande "suggest-opponents,Bob,150" n'a pas été exécutée.
+Raison: Bob n'est pas un profil actif
+-----
+Attention: la commande "suggest-opponents,Carl,150" n'a pas été exécutée.
+Raison: Carl n'est pas un profil actif
+-----
+-----
+Attention: la commande "result,Alice,Bob,1" n'a pas été exécutée.
+Raison: Alice n'est pas un profil actif
+-----
+Attention: la commande "enable-profile,Fern22" n'a pas été exécutée.
+Raison: Fern22 n'est pas un profil existant.
+-----
+Attention: la commande "disable-profile,Alice" n'a pas été exécutée.
+Raison: Alice n'est pas un profil existant
+-----
+Attention: la commande "result,Irma,Carl,-1" n'a pas été exécutée.
+Raison: Irma n'est pas un profil actif
+-----
+-----
+Attention: la commande "result,Jeanne,Bob,-1" n'a pas été exécutée.
+Raison: Jeanne n'est pas un profil actif
+-----
+-----
+-----
+Attention: la commande "result,Bob,Alice,-1" n'a pas été exécutée.
+Raison: Bob n'est pas un profil actif
+-----
+Attention: la commande "result,Irma,Hector,1" n'a pas été exécutée.
+Raison: Hector n'est pas un profil actif
+-----
+Attention: la commande "result,Fern22,Bob,-1" n'a pas été exécutée.
+Raison: Fern22 n'est pas un profil actif
+-----
+Attention: la commande "result,Irma,Alice,-1" n'a pas été exécutée.
+Raison: Alice n'est pas un profil actif
+-----
+-----
+-----
+Attention: la commande "result,Erika,Erika,0" n'a pas été exécutée.
+Raison: Erika n'est pas un profil actif
+-----
+Attention: la commande "result,Hector,Fern22,-1" n'a pas été exécutée.
+Raison: Hector n'est pas un profil actif
+-----
+-----
+-----
+-----
+Suggestions d'adversaires pour [Grinch,1500], elo +- 150
+[Maria,1497]
+[Carl,1500]
+[Diana,1500]
+[Hector,1500]
+[Irma,1500]
+[Jeanne,1500]
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+Suggestions d'adversaires pour [Carl,1500], elo +- 150
+[Hector,1462]
+[Maria,1497]
+[Diana,1501]
+[Irma,1501]
+[Grinch,1537]
+-----
+-----
+-----
+Attention: la commande "result,Erika,Alice,-1" n'a pas été exécutée.
+Raison: Erika n'est pas un profil actif
+-----
+Attention: la commande "result,Alice,Irma,1" n'a pas été exécutée.
+Raison: Alice n'est pas un profil actif
+-----
+-----
+-----
+Attention: la commande "result,Jeanne,Carl,-1" n'a pas été exécutée.
+Raison: Jeanne n'est pas un profil actif
+-----
+Attention: la commande "result,Fern22,Hector,1" n'a pas été exécutée.
+Raison: Fern22 n'est pas un profil actif
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+Suggestions d'adversaires pour [Grinch,1446], elo +- 150
+[Irma,1481]
+[Hector,1485]
+[Maria,1497]
+[Diana,1518]
+[Carl,1557]
+-----
+-----
+-----
+Suggestions d'adversaires pour [Grinch,1446], elo +- 150
+[Irma,1464]
+[Maria,1497]
+[Diana,1518]
+[Carl,1557]
+-----
+-----
+-----
+-----
+-----
+Attention: la commande "result,Jeanne,Bob,-1" n'a pas été exécutée.
+Raison: Jeanne n'est pas un profil actif
+-----
+Attention: la commande "result,Irma,Bob,-1" n'a pas été exécutée.
+Raison: Bob n'est pas un profil actif
+-----
+Attention: la commande "result,Fern22,Alice,0" n'a pas été exécutée.
+Raison: Fern22 n'est pas un profil actif
+-----
+Attention: la commande "result,Alice,Erika,1" n'a pas été exécutée.
+Raison: Alice n'est pas un profil actif
+-----
+Attention: la commande "result,Fern22,Hector,1" n'a pas été exécutée.
+Raison: Fern22 n'est pas un profil actif
+-----
+-----
+Suggestions d'adversaires pour [Irma,1439], elo +- 150
+[Erika,1483]
+[Maria,1497]
+[Diana,1532]
+[Carl,1579]
+-----
+Attention: la commande "result,Fern22,Fern22,-1" n'a pas été exécutée.
+Raison: Fern22 n'est pas un profil actif
+-----
+-----
+-----
+-----
+Suggestions d'adversaires pour [Irma,1439], elo +- 150
+[Erika,1490]
+[Maria,1497]
+[Diana,1499]
+-----
+-----
+Attention: la commande "result,Fern22,Irma,1" n'a pas été exécutée.
+Raison: Fern22 n'est pas un profil actif
+-----
+Attention: la commande "result,Fern22,Grinch,1" n'a pas été exécutée.
+Raison: Fern22 n'est pas un profil actif
+-----
+-----
+Attention: la commande "result,Bob,Bob,-1" n'a pas été exécutée.
+Raison: Bob n'est pas un profil actif
+-----
+-----
+Suggestions d'adversaires pour [Carl,1608], elo +- 150
+[Erika,1490]
+[Maria,1497]
+[Diana,1499]
+[Bob,1500]
+[Hector,1502]
+-----
+-----
+Suggestions d'adversaires pour [Hector,1502], elo +- 150
+[Irma,1430]
+[Grinch,1446]
+[Erika,1490]
+[Maria,1497]
+[Diana,1499]
+[Bob,1500]
+[Carl,1608]
+-----
+Suggestions d'adversaires pour [Carl,1608], elo +- 150
+[Erika,1490]
+[Maria,1497]
+[Diana,1499]
+[Bob,1500]
+[Hector,1502]
+-----
+Suggestions d'adversaires pour [Erika,1490], elo +- 150
+[Irma,1430]
+[Grinch,1446]
+[Maria,1497]
+[Diana,1499]
+[Bob,1500]
+[Hector,1502]
+[Carl,1608]
+-----
+Attention: la commande "result,Erika,Jeanne,0" n'a pas été exécutée.
+Raison: Jeanne n'est pas un profil actif
+-----
+-----
+-----
+Attention: la commande "result,Irma,Fern22,-1" n'a pas été exécutée.
+Raison: Irma n'est pas un profil actif
+-----
+Attention: la commande "result,Alice,Hector,0" n'a pas été exécutée.
+Raison: Alice n'est pas un profil actif
+-----
+-----
+-----
+Attention: la commande "result,Irma,Fern22,-1" n'a pas été exécutée.
+Raison: Irma n'est pas un profil actif
+-----
+Suggestions d'adversaires pour [Carl,1613], elo +- 150
+[Erika,1490]
+[Hector,1490]
+[Bob,1497]
+[Maria,1497]
+[Diana,1504]
+-----
+Suggestions d'adversaires pour [Carl,1613], elo +- 150
+[Erika,1490]
+[Hector,1490]
+[Bob,1497]
+[Maria,1497]
+[Diana,1504]
+-----
+-----
+-----
+-----
+Suggestions d'adversaires pour [Bob,1497], elo +- 150
+[Hector,1469]
+[Erika,1490]
+[Maria,1497]
+[Diana,1504]
+[Carl,1628]
+-----
+Suggestions d'adversaires pour [Bob,1497], elo +- 150
+[Hector,1469]
+[Erika,1490]
+[Maria,1497]
+[Diana,1504]
+[Carl,1628]
+-----
+-----
+-----
+-----
+Attention: la commande "enable-profile,Erika" n'a pas été exécutée.
+Raison: Erika est déjà un profil actif.
+-----
+-----
+-----
+Attention: la commande "result,Jeanne,Fern22,0" n'a pas été exécutée.
+Raison: Fern22 n'est pas un profil actif
+-----
+-----
+Attention: la commande "result,Grinch,Erika,0" n'a pas été exécutée.
+Raison: Grinch n'est pas un profil actif
+-----
+-----
+Suggestions d'adversaires pour [Bob,1518], elo +- 150
+[Jeanne,1487]
+[Diana,1493]
+[Erika,1497]
+[Maria,1497]
+[Carl,1627]
+-----
+Attention: la commande "suggest-opponents,Marco,200" n'a pas été exécutée.
+Raison: Marco n'est pas un profil actif
+-----
+-----
+-----
+-----
+Liste de tous les joueurs actifs:
+[Bob,1497]
+[Carl,1628]
+[Diana,1504]
+[Erika,1490]
+[Grinch,1448]
+[Hector,1469]
+[Maria,1497]
+-----
+-----
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+Bob,2,1518,active
+Carl,21,1627,active
+Diana,11,1493,active
+Erika,5,1497,active
+Jeanne,2,1487,active
+Maria,57,1497,active
+Rick,44,1501,active
+Grinch,11,1448
+Hector,8,1469
+Irma,8,1430
